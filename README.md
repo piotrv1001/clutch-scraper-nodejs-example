@@ -2,6 +2,8 @@
 
 This example shows how to scrape Clutch.co company listings in Node.js using the [Clutch Listings Scraper](https://apify.com/piotrv1001/clutch-listings-scraper) actor on Apify — no browser automation or parsing code required.
 
+![Clutch.co listings scraper results](clutch_results.png)
+
 ## What this example does
 
 - Calls the Apify Clutch Listings Scraper actor with a target Clutch.co URL
