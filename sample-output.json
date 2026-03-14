@@ -1,0 +1,83 @@
+[
+    {
+        "title": "Sigma Software Group",
+        "isVerified": true,
+        "profileLink": "https://clutch.co/profile/sigma-software-group",
+        "logo": "https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/2451e271e8e94e601746554d758ce530.png",
+        "rating": 4.8,
+        "reviewCount": 37,
+        "minProjectSize": "$50,000+",
+        "hourlyRate": "$50 - $99 / hr",
+        "employeesCount": "1,000 - 9,999",
+        "location": "West Hollywood, CA",
+        "services": [
+            "25% Mobile App Development",
+            "25% Custom Software Development",
+            "20% Web Development +3 services",
+            "10% BI & Big Data Consulting & SI",
+            "10% Enterprise App Modernization",
+            "10% IoT Development"
+        ],
+        "description": "Sigma Software Group is a leading company specializing in mobile app development and software engineering services, including iOS and Android development. Across multiple reviews, clients commend their proficiency in delivering projects on time and within budget, with 100% of reviewers highlighting their innovative solutions and strong project management skills.",
+        "numberOfProjects": 37,
+        "tags": [
+            "Receptive",
+            "12 reviews mention Mobile App Development",
+            "4.3 out of 5.0 rating for cost",
+            "Completed projects in 8 countries"
+        ],
+        "websiteUrl": "https://sigma.software/"
+    },
+    {
+        "title": "Jafton",
+        "isVerified": true,
+        "profileLink": "https://clutch.co/profile/jafton",
+        "logo": "https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/776c5e877d7d2dc91b0487369d55f2fc.jpg",
+        "rating": 4.8,
+        "reviewCount": 124,
+        "minProjectSize": "$25,000+",
+        "hourlyRate": "$50 - $99 / hr",
+        "employeesCount": "10 - 49",
+        "location": "Los Angeles, CA",
+        "services": [
+            "80% Mobile App Development",
+            "10% AI Development",
+            "10% Custom Software Development"
+        ],
+        "description": "Jafton is a dedicated Mobile App Development company specializing in creating and enhancing mobile applications with a strong emphasis on performance, user experience, and integration. 100% of clients praised their responsive project management and technical skills.",
+        "numberOfProjects": 124,
+        "tags": [
+            "Unique expertise",
+            "81 reviews mention Mobile App Development",
+            "Reviewed 3 times in the past 6 months",
+            "Completed projects in 14 countries"
+        ],
+        "websiteUrl": "https://www.jafton.com/"
+    },
+    {
+        "title": "Intellectsoft",
+        "isVerified": true,
+        "profileLink": "https://clutch.co/profile/intellectsoft",
+        "logo": "https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/intellectsoft-logo.png",
+        "rating": 4.9,
+        "reviewCount": 56,
+        "minProjectSize": "$50,000+",
+        "hourlyRate": "$50 - $99 / hr",
+        "employeesCount": "250 - 999",
+        "location": "Palo Alto, CA",
+        "services": [
+            "50% Mobile App Development",
+            "30% Custom Software Development",
+            "20% UX/UI Design"
+        ],
+        "description": "Intellectsoft is a full-cycle software development company focused on delivering cutting-edge mobile and web solutions for enterprise clients. Reviewers consistently highlight their deep technical expertise and reliable delivery across complex, high-stakes projects.",
+        "numberOfProjects": 56,
+        "tags": [
+            "High-value projects",
+            "34 reviews mention Mobile App Development",
+            "4.8 out of 5.0 rating for cost",
+            "Completed projects in 20 countries"
+        ],
+        "websiteUrl": "https://www.intellectsoft.net/"
+    }
+]
