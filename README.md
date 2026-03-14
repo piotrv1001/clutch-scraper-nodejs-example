@@ -112,6 +112,11 @@ See [`sample-output.json`](./sample-output.json) for a full example. Each scrape
 
 **[Open the Clutch Listings Scraper on Apify](https://apify.com/piotrv1001/clutch-listings-scraper)**
 
+## Related resources
+
+- [How to scrape Clutch companies and agencies](https://www.falconscrape.com/blog/how-to-scrape-clutch-companies-and-agencies) — blog post walkthrough
+- [YouTube tutorial](https://youtu.be/8LIkbKixLj4) — video guide for this example
+
 ## License
 
 MIT
